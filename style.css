@@ -4,11 +4,6 @@ body{
 }
 
 
-img{
-    animation: spin 0.5s infinite,
-            xmove 1s infinite;
-}
-
 
 @keyframes spin {
     0% {
