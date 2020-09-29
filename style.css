@@ -4,6 +4,10 @@ body{
 }
 
 
+img{
+    animation: spin 0.005s infinite,
+            xmove 1s infinite;
+}
 
 @keyframes spin {
     0% {
